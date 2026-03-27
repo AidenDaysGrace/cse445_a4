@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="https://aidendaysgrace.github.io/cse445_a4/NationalParks.xsd">
+<NationalParks xmlns="http://cse445.asu.edu/a4"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://cse445.asu.edu/a4
+https://aidendaysgrace.github.io/cse445_a4/NationalParks.xsd">
 
   <!--Info of Grand Canyon Park-->
   <NationalPark Rating="4.9">
